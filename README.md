@@ -1,2 +1,4 @@
 # Gaon-Code-A-Thon
  Gaon - Samuel Luke, Peter Morris, Trey Napier
+Codelingo aims to solve the problem of the motivated, yet directionless budding programmer seeking to expand their knowledge on a limited time budget. If you want to learn useful programming information, figure out where to take the next step on your programming journey, or search relevant job listings based on the lessons you're interested in, Codelingo is for you.
+This application is designed to break down programming concepts into bite-sized units, and provide users with road-maps and job listings based on their learning interests. It rewards users with coins and experience to foster an engaging learning environment. 
